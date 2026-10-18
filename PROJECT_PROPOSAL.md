@@ -2,13 +2,13 @@
 
 ## Group Letter: D
 
-## Team Members
+## 1.Team Members
 - Loulwah Alsahali - 2231155490
 - Malak Alenezi - 2231118627
 - Rifal Alkhudhair - 2231131659
 
-| **GitHub repository URL: ** https://github.com/Loulwah-M/Smart-Study-Planner
-| **summary: ** | Smart Study Planner is a web application that gathers a university student's courses, assignments, exams and deadlines in one place and turns them into a realistic weekly study schedule. |
+-**GitHub repository URL: ** https://github.com/Loulwah-M/Smart-Study-Planner
+-**summary: **Smart Study Planner is a web application that gathers a university student's courses, assignments, exams and deadlines in one place and turns them into a realistic weekly study schedule.
  
 ---
  
