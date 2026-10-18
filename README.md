@@ -20,5 +20,5 @@ A student study planner to organize university courses, assignments, deadlines, 
   [View Project Proposal](PROJECT_PROPOSAL.md)
 
   ## Project Status
-Currently in the planning and initial requirements phase.
+  Currently in the planning and initial requirements phase.
  
