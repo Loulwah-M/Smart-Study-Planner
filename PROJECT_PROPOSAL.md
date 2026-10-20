@@ -10,6 +10,7 @@
 - Loulwah Alsahali
 - Malak Alenezi
 - Rifal Meshari Alkhudhair
+  
 **GitHub repository URL:**  https://github.com/Loulwah-M/Smart-Study-Planner.
  
 **summary:** Smart Study Planner is a web application that gathers a university student's courses, assignments, exams and deadlines in one place and turns them into a realistic weekly study schedule.
