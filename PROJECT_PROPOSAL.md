@@ -1,6 +1,6 @@
 # SWE301 Assignment 1: Project Proposal and Initial Requirements
  
-## 4.1 Team information
+## 1 Team information
  
 **Project title:** Smart Study Planner
  
