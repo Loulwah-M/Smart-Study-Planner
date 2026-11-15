@@ -1,6 +1,6 @@
 # Smart-Study-Planner
 ## Project Description
-A student study planner to organize university courses, assignments, deadlines, and study schedules, with planned integration with Microsoft Teams.
+A student study planner to organize university courses, assignments, deadlines, and study schedules, with planned integration with Microsoft Teams to be investigated.
 
 ## Team Members
 - Loulwah Alsahali
@@ -17,7 +17,7 @@ A student study planner to organize university courses, assignments, deadlines, 
 
  ## Project Proposal
  Read our full project proposal here:
- [View Project Proposal](PROJECT_PROPOSAL.md)
+ [Project Proposal](Study_Planner.md)
 
 ## Project Documents
 - [Project Proposal](PROJECT_PROPOSAL.md)
