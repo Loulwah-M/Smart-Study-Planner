@@ -20,7 +20,7 @@ A student study planner to organize university courses, assignments, deadlines, 
  [Project Proposal](Study_Planner.md)
 
 ## Project Documents
-- [Project Proposal](PROJECT_PROPOSAL.md)
+- [Project Proposal](Study_Planner.md)
 - [Sprint 1 Plan](SPRINT_1_PLAN.md)
 - [GitHub Project Board](https://github.com/users/Loulwah-M/projects/1)
 
