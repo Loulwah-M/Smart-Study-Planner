@@ -15,10 +15,15 @@ A student study planner to organize university courses, assignments, deadlines, 
 - Receive reminders for upcoming deadlines.
 - Update the study plan when deadlines change.
 
-  ## Project Proposal
-  Read our full project proposal here:
-  [View Project Proposal](PROJECT_PROPOSAL.md)
+ ## Project Proposal
+ Read our full project proposal here:
+ [View Project Proposal](PROJECT_PROPOSAL.md)
 
-  ## Project Status
-  Currently in the planning and initial requirements phase.
+## Project Documents
+- [Project Proposal](PROJECT_PROPOSAL.md)
+- [Sprint 1 Plan](SPRINT_1_PLAN.md)
+- [GitHub Project Board](https://github.com/users/Loulwah-M/projects/1)
+
+ ## Project Status
+ Currently in the planning and initial requirements phase.
  
