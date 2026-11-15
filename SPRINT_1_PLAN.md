@@ -12,6 +12,8 @@
 - **GitHub Project URL:** https://github.com/users/Loulwah-M/projects/1
 - **Sprint dates:** 15 November 2026 – 28 November 2026
 - **Sprint length:** Two weeks
+
+
 ## Connection to Assignment 1
  
 The project backlog is derived from [`PROJECT_PROPOSAL.md`](PROJECT_PROPOSAL.md). Its 12 issues cover the three proposed workflows:
@@ -58,6 +60,7 @@ At plan submission:
 - Each issue has its named primary owner assigned through their GitHub account.
 - All four appear in the `Current Sprint` board view.
 - The other eight issues remain in `Backlog`, with no sprint assigned.
+  
 The Project uses an iteration field named `Sprint`, containing a two-week iteration named `Sprint 1`. The `Current Sprint` view is filtered to Sprint 1 and grouped by Status.
  
 ## Workflow rules
@@ -68,11 +71,13 @@ The Project uses an iteration field named `Sprint`, containing a two-week iterat
 - **In Progress:** the owner has started the work, and the team's limit allows it.
 - **Review:** the owner has linked the proposed evidence, and another team member checks it against the acceptance criteria.
 - **Done:** all acceptance criteria are met, review comments are resolved, and the reviewed evidence is available in the repository.
+
 - Work must be reviewed by a member other than its primary owner before moving to Done.
 - Completed issues must link to repository evidence, such as a merged document or pull request.
 - Blocked work remains In Progress and counts toward the limit. The owner records the blocker so the team can help resolve it.
 - Unfinished or unreviewed work must not be marked Done.
 - Each member records their own genuine contributions through issues, commits, pull requests, or reviews.
+
 ## Contribution plan
  
 | Team member | Work to lead | Work to review | Planned contribution evidence |
@@ -87,6 +92,7 @@ These responsibilities identify primary owners and reviewers. All members will d
  
 - **Week 1:** Begin the semester setup and scheduling specifications. Prepare the reminder and data-model work from the proposal, starting additional issues only when an In Progress slot becomes available. Identify unclear requirements and record proposed decisions in the relevant issues.
 - **Week 2:** Complete the remaining specifications and the data and security design. Review each output, resolve comments, check consistency across the workflows, and merge accepted documents. Record unfinished work accurately and discuss it during the sprint review.
+  
 The team will hold a short weekly coordination meeting and an end-of-sprint review against the sprint goal and the issue acceptance criteria.
  
 ## AI use disclosure
